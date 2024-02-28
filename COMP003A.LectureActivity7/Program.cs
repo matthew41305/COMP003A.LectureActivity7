@@ -136,6 +136,7 @@ namespace COMP003A.LectureActivity7
                 {
                     runningTotal += item; // adds the value of the current item to the runningTotal
                 }
+
                 return runningTotal / array.Length; // returns the average
             }
 
